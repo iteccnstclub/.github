@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Logo.png" alt="NST Club Banner" width="150px" />
+  <img src="profile/Logo.png" alt="NST Club Banner" width="150px" />
 </p>
 
 <div align="center">
