@@ -39,7 +39,7 @@ We are a course-based club of student enthusiasts passionate about all fields of
 
 We don't just talk about security; we practice it. Our activities are designed to simulate real-world operational environments & increase awareness.
 
-*   **🚩 Capture The Flag (CTF):** Training for and participating in local and regional CTF competitions.
+*   **🚩 Capture The Flag (CTF):** Training for and participating in local & regional CTF competitions.
 *   **🛠️ Workshops:** Hands-on sessions on penetration testing, network defense, and scripting.
 *   **📢 Webinars:** Hosting talks with the public to educate them about the latest scams & how to protect against it.
 
