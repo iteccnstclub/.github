@@ -54,11 +54,11 @@ We utilize industry-standard tools & environments to sharpen our skills:
 
 ---
 
-### 📅 Upcoming Events
+### 📅 Events
 
 | Event | Date | Location | Status |
 | :--- | :--- | :--- | :--- |
-| **NST Club Bonding Day** | TBD | On-Site | ⏳ Upcoming |
+| **NST Club Bonding Day** | 6 Feb 2026 | On-Site | ⏳ Ended |
 | **NST Cyber Dominion CTF** | 13 Dec 2025 - 15 Jan 2026 | Online | ⏳ Ended |
 
 _(Stay tuned to our [Instagram](https://instagram.com/itenstclub) for the latest updates!)_
